@@ -1,6 +1,12 @@
-# flutter_flip_card
 
-A new Flutter project.
+# Flutter Flip card game
+This is homework of flutter flip card game
+
+
+## Play demo
+http://flutterflipcard.atwebpages.com/
+
+
 
 ## Getting Started
 
